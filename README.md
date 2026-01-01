@@ -82,16 +82,4 @@ Retrieves available vehicles of a specific type.
 ### Query 4 – GROUP BY & HAVING
 Finds vehicles that have more than two bookings.
 
-All queries are available in `queries.sql`.
 
----
-
-## 📎 Submission Links
-- **GitHub Repository:** (Add your repo link here)
-- **ERD Link:** (Lucidchart public link)
-- **Viva Video Link:** (YouTube / Google Drive public link)
-
----
-
-## 📝 Author
-Prepared for database design and SQL practice assignment.
